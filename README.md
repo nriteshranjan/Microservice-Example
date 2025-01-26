@@ -1,3 +1,24 @@
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
+</p>
+<p align="center"><h1 align="center">MICROSERVICE-EXAMPLE</h1></p>
+<p align="center">
+	<em><code>❯ REPLACE-ME</code></em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/nriteshranjan/Microservice-Example?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/nriteshranjan/Microservice-Example?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/nriteshranjan/Microservice-Example?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/nriteshranjan/Microservice-Example?style=default&color=0080ff" alt="repo-language-count">
+</p>
+<p align="center"><!-- default option, no dependency badges. -->
+</p>
+<p align="center">
+	<!-- default option, no dependency badges. -->
+</p>
+<br>
+
 # Project Overview
 
 This project is built using Spring Boot and microservices architecture, utilizing various tools and technologies to ensure efficient account management, service discovery, and test automation. Below is an overview of the key components, tools, and technologies used in this project.
