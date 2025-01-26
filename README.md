@@ -55,27 +55,12 @@ A core component enabling service discovery for the microservices ecosystem.
 - **Service Registry**: Central registry for service discovery using Eureka.
   - **Tool**: [Eureka Server](https://github.com/Netflix/eureka/wiki/Eureka-Server-Documentation)
 
-## Tests
-
-### **Gateway Service Application Tests**
-Ensures the core functionality of the gateway service is properly initialized and loaded.
-
-- **Test Suite**: Foundation for testing the Gateway Service application.
-  - **Tool**: [JUnit](https://junit.org/junit5/docs/current/user-guide/)
-
-### **Eureka Server Application Tests**
-Foundation for testing the Eureka server application.
-
-- **Test Suite**: Ensures proper initialization and functionality of the Eureka server.
-  - **Tool**: [JUnit](https://junit.org/junit5/docs/current/user-guide/)
-
 ## Technologies Used
 
 - **Spring Boot**: A framework for building production-ready applications.
 - **Spring Data JPA**: Simplifies database interactions through the repository pattern.
 - **Java Persistence API (JPA)**: Manages relational data in Java applications.
 - **Eureka Server**: Provides service registration and discovery.
-- **JUnit**: A framework for writing and running tests in Java.
 
 ## Getting Started
 
